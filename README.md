@@ -1,5 +1,11 @@
 # 🚀 SDF 光线追踪在终端 (Terminal 3D SDF Raytracer)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+![OpenCL](https://img.shields.io/badge/OpenCL-Supported-green.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+
 用纯 Python 和控制台 ANSI 字符方块（`█`），在终端里硬核手搓的 3D 光线追踪渲染器。
 **无需任何图形库（如 Pygame/OpenGL），直接用数学公式和显卡算力点亮你的黑框框！**
 
